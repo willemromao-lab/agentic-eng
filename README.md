@@ -5,8 +5,9 @@
 
 ## Módulos
 
-### Módulo 1 — Large Language Models (LLMs)
 ---
+### Módulo 1 — Large Language Models (LLMs)
+
 #### 1.1 Arquitetura Generative Pre-trained Transformer (GPT)
 - Embeddings e Tokenização
 - Positional Encoding
@@ -35,9 +36,9 @@
 - *Alammar, Cap. 9*
 - *Albada, Cap. 1 (p. 5)*
 
-
-### Módulo 2 — Sistemas Agentic
 ---
+### Módulo 2 — Sistemas Agentic
+
 #### 2.1 Teoria de Agentes
 - Prompt Engineering
 - ReAct e Chain-of-Thought (CoT)
@@ -65,9 +66,9 @@
 - *Huyen, Cap. 6 (p. 253–274)*
 - *Albada, Cap. 6*
 
-
-### Módulo 3 — LangChain, LangGraph e MCP
 ---
+### Módulo 3 — LangChain, LangGraph e MCP
+
 #### 3.1 LangChain
 - Chains
 - Memory (Short/Long term)
@@ -95,9 +96,9 @@
 - *Huyen, Cap. 1 (p. 28–34), 10*
 - *Albada, Cap. 1, 4*
 
-
-### Módulo 4 — AgentOps e LangSmith
 ---
+### Módulo 4 — AgentOps e LangSmith
+
 #### 4.1 Deployment
 - LangSmith Cloud
 - FastAPI, Postgres e Docker
