@@ -41,8 +41,8 @@
 #### 2.1 Teoria de Agentes
 - Prompt Engineering
 - ReAct e Chain-of-Thought (CoT)
-- Reflexion e Planejamento
-- Agents Protocol (A2A, ACP, MCP)
+- Reflection e Planning
+- Agents Protocol (A2A, ACP e MCP)
 - LLM Routing e Fallbacks
 - Guardrails e Proteção contra Prompt Injection
 - Human-in-the-loop (HITL)
@@ -54,7 +54,7 @@
 
 #### 2.2 Geração Aumentada via Recuperação (RAG)
 - Bancos Vetoriais
-- Métricas de similaridade (Cosseno, Euclidiana)
+- Métricas de similaridade (Cosseno e Euclidiana)
 - Algoritmos de busca (IVF vs HNSW)
 - Busca Híbrida
 - Agentic RAG
@@ -103,7 +103,7 @@
 - FastAPI, Postgres e Docker
 
 #### 4.2 Avaliação
-- Métricas (Perplexity, Rouge, BLEU)
+- Métricas
 - Datasets e Experimentos
 - Gerenciamento de Prompts
 - LLM-as-judge
