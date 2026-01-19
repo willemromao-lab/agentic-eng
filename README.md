@@ -5,7 +5,7 @@
 ### Módulo 1 - Large Language Models (LLMs)
 
 <details>
-<summary><strong>1.1 - Arquitetura Generative Pre-trained Transformer (GPT)</strong></summary>
+<summary>1.1 - Arquitetura Generative Pre-trained Transformer (GPT)</summary>
 
 <div style="margin-top: 12px; margin-left: 20px;">
 
@@ -22,7 +22,7 @@
 </details>
 
 <details>
-<summary><strong>1.2 - Post-Training e Eficiência</strong></summary>
+<summary>1.2 - Post-Training e Eficiência</summary>
 
 <div style="margin-top: 12px; margin-left: 20px;">
 
@@ -39,7 +39,7 @@
 </details>
 
 <details>
-<summary><strong>1.3 - Multimodal Large Language Models (MLLM) e Interface de Modelos</strong></summary>
+<summary>1.3 - Multimodal Large Language Models (MLLM) e Interface de Modelos</summary>
 
 <div style="margin-top: 12px; margin-left: 20px;">
 
@@ -56,7 +56,7 @@
 ### Módulo 2 - Sistemas Agentic
 
 <details>
-<summary><strong>2.1 - Teoria de Agentes</strong></summary>
+<summary>2.1 - Teoria de Agentes</summary>
 
 <div style="margin-top: 12px; margin-left: 20px;">
 
@@ -77,7 +77,7 @@
 </details>
 
 <details>
-<summary><strong>2.2 - Geração Aumentada via Recuperação (RAG)</strong></summary>
+<summary>2.2 - Geração Aumentada via Recuperação (RAG)</summary>
 
 <div style="margin-top: 12px; margin-left: 20px;">
 
@@ -99,7 +99,7 @@
 ### Módulo 3 - LangChain, MCP e LangGraph
 
 <details>
-<summary><strong>3.1 - LangChain</strong></summary>
+<summary>3.1 - LangChain</summary>
 
 <div style="margin-top: 12px; margin-left: 20px;">
 
@@ -112,7 +112,7 @@
 </details>
 
 <details>
-<summary><strong>3.2 - LangGraph</strong></summary>
+<summary>3.2 - LangGraph</summary>
 
 <div style="margin-top: 12px; margin-left: 20px;">
 
@@ -126,7 +126,7 @@
 </details>
 
 <details>
-<summary><strong>3.3 - Model Context Protocol (MCP)</strong></summary>
+<summary>3.3 - Model Context Protocol (MCP)</summary>
 
 <div style="margin-top: 12px; margin-left: 20px;">
 
@@ -138,7 +138,7 @@
 </details>
 
 <details>
-<summary><strong>3.4 - Projeto</strong></summary>
+<summary>3.4 - Projeto</summary>
 
 <div style="margin-top: 12px; margin-left: 20px;">
 
@@ -156,7 +156,7 @@
 ### Módulo 4 - AgentOps e LangSmith
 
 <details>
-<summary><strong>4.1 - Deployment</strong></summary>
+<summary>4.1 - Deployment</summary>
 
 <div style="margin-top: 12px; margin-left: 20px;">
 
@@ -167,7 +167,7 @@
 </details>
 
 <details>
-<summary><strong>4.2 - Avaliação</strong></summary>
+<summary>4.2 - Avaliação</summary>
 
 <div style="margin-top: 12px; margin-left: 20px;">
 
@@ -186,7 +186,7 @@
 </details>
 
 <details>
-<summary><strong>4.3 - Observabilidade</strong></summary>
+<summary>4.3 - Observabilidade</summary>
 
 <div style="margin-top: 12px; margin-left: 20px;">
 
@@ -203,7 +203,7 @@
 </details>
 
 <details>
-<summary><strong>4.4 - Projeto</strong></summary>
+<summary>4.4 - Projeto</summary>
 
 <div style="margin-top: 12px; margin-left: 20px;">
 
