@@ -100,17 +100,17 @@
 ---
 ### Módulo 4 — AgentOps e LangSmith
 
-#### 4.1 Deployment
-- LangSmith Cloud
-- FastAPI, Postgres e Docker
-
-#### 4.2 Avaliação
+#### 4.1 Avaliação
 - Métricas
 - Datasets e Experimentos
 - Gerenciamento de Prompts
 - LLM-as-judge
 - Comparação Pairwise
 - Testes A/B
+
+#### 4.2 Deployment
+- LangSmith Cloud
+- FastAPI, Postgres e Docker
 
 *Referências*
 - *Huyen, Cap. 3–4*
