@@ -2,47 +2,29 @@
 
 [![Licença: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.pt-br)
 
-### Módulo 1 - Large Language Models (LLMs)
+## Módulo 1 — Large Language Models (LLMs)
 
-<details>
-<summary>1.1 - Arquitetura Generative Pre-trained Transformer (GPT)</summary>
-
-<div style="margin-top: 12px; margin-left: 20px;">
-
-- Embeddings e Tokenização  
-- Positional Encoding  
-- Dropout  
-- Blocos Transformer  
+### 1.1 Arquitetura Generative Pre-trained Transformer (GPT)
+- Embeddings e Tokenização
+- Positional Encoding
+- Dropout
+- Blocos Transformer
 
 *Referências*
-- *Alammar, Cap. 1-3*
-- *Huyen, Cap. 1-2*
+- *Alammar, Cap. 1–3*
+- *Huyen, Cap. 1–2*
 
-</div>
-</details>
-
-<details>
-<summary>1.2 - Post-Training e Eficiência</summary>
-
-<div style="margin-top: 12px; margin-left: 20px;">
-
+### 1.2 Post-Training e Eficiência
 - Fine-Tuning (LoRA, QLoRA, SFT, RLHF e DPO)
 - Quantização
 - Small Language Models (SLMs)
 
 *Referências*
-- *Alammar, Cap. 7 (p. 200-201), 11-12*
+- *Alammar, Cap. 7 (p. 200–201), 11–12*
 - *Huyen, Cap. 7, 9*
-- *Albada, Cap. 7 (p. 146-162)*
+- *Albada, Cap. 7 (p. 146–162)*
 
-</div>
-</details>
-
-<details>
-<summary>1.3 - Multimodal Large Language Models (MLLM) e Interface de Modelos</summary>
-
-<div style="margin-top: 12px; margin-left: 20px;">
-
+### 1.3 Multimodal Large Language Models (MLLM) e Interface de Modelos
 - CLIP/BLIP-2
 - Integração via API (OpenAI/Gemini)
 
@@ -50,16 +32,10 @@
 - *Alammar, Cap. 9*
 - *Albada, Cap. 1 (p. 5)*
 
-</div>
-</details>
 
-### Módulo 2 - Sistemas Agentic
+## Módulo 2 — Sistemas Agentic
 
-<details>
-<summary>2.1 - Teoria de Agentes</summary>
-
-<div style="margin-top: 12px; margin-left: 20px;">
-
+### 2.1 Teoria de Agentes
 - Prompt Engineering
 - ReAct e Chain-of-Thought (CoT)
 - Reflexion e Planejamento
@@ -69,18 +45,11 @@
 - Human-in-the-loop (HITL)
 
 *Referências*
-- *Allamar, Cap. 6, 7 (p. 218-224)*
-- *Huyen, Cap. 5, 6 (p. 275-304)*
-- *Albada Cap. 1-8, 11 (p. 251-253), 12*
+- *Allamar, Cap. 6, 7 (p. 218–224)*
+- *Huyen, Cap. 5, 6 (p. 275–304)*
+- *Albada Cap. 1–8, 11 (p. 251–253), 12*
 
-</div>
-</details>
-
-<details>
-<summary>2.2 - Geração Aumentada via Recuperação (RAG)</summary>
-
-<div style="margin-top: 12px; margin-left: 20px;">
-
+### 2.2 Geração Aumentada via Recuperação (RAG)
 - Bancos Vetoriais
 - Métricas de similaridade (Cosseno, Euclidiana)
 - Algoritmos de busca (IVF vs HNSW)
@@ -90,87 +59,47 @@
 
 *Referências*
 - *Alammar, Cap. 8*
-- *Huyen, Cap. 6 (p. 253-274)*
+- *Huyen, Cap. 6 (p. 253–274)*
 - *Albada, Cap. 6*
 
-</div>
-</details>
 
-### Módulo 3 - LangChain, MCP e LangGraph
+## Módulo 3 — LangChain, MCP e LangGraph
 
-<details>
-<summary>3.1 - LangChain</summary>
-
-<div style="margin-top: 12px; margin-left: 20px;">
-
+### 3.1 LangChain
 - Chains
 - Memory (Short/Long term)
 - Tools
 - Implementações dos tópicos 2.1 e 2.2
 
-</div>
-</details>
-
-<details>
-<summary>3.2 - LangGraph</summary>
-
-<div style="margin-top: 12px; margin-left: 20px;">
-
+### 3.2 LangGraph
 - Grafos de estado (State Schema)
 - Nodes
 - Reducers
 - Paralelização
 - Sub-grafos
 
-</div>
-</details>
-
-<details>
-<summary>3.3 - Model Context Protocol (MCP)</summary>
-
-<div style="margin-top: 12px; margin-left: 20px;">
-
+### 3.3 Model Context Protocol (MCP)
 - Arquitetura
 - Protocolo
 - Primitives (Tools, Resources e Prompts)
 
-</div>
-</details>
-
-<details>
-<summary>3.4 - Projeto</summary>
-
-<div style="margin-top: 12px; margin-left: 20px;">
-
+### 3.4 Projeto
 - Definição do escopo, design da arquitetura do agente e seleção dos Foundation Models
 - Implementação de Tools, integração de bancos vetoriais e orquestração de memória
 
 *Referências*
-- *Allamar, Cap 7*
-- *Huyen, Cap 1 (p. 28-34), 10*
+- *Allamar, Cap. 7*
+- *Huyen, Cap. 1 (p. 28–34), 10*
 - *Albada, Cap. 1, 4*
 
-</div>
-</details>
 
-### Módulo 4 - AgentOps e LangSmith
+## Módulo 4 — AgentOps e LangSmith
 
-<details>
-<summary>4.1 - Deployment</summary>
-
-<div style="margin-top: 12px; margin-left: 20px;">
-
+### 4.1 Deployment
 - LangSmith Cloud
 - FastAPI, Postgres e Docker
 
-</div>
-</details>
-
-<details>
-<summary>4.2 - Avaliação</summary>
-
-<div style="margin-top: 12px; margin-left: 20px;">
-
+### 4.2 Avaliação
 - Métricas (Perplexity, Rouge, BLEU)
 - Datasets e Experimentos
 - Gerenciamento de Prompts
@@ -179,36 +108,18 @@
 - Testes A/B
 
 *Referências*
-- *Huyen, Cap. 3-4*
+- *Huyen, Cap. 3–4*
 - *Albada, Cap. 9 e 11*
 
-</div>
-</details>
-
-<details>
-<summary>4.3 - Observabilidade</summary>
-
-<div style="margin-top: 12px; margin-left: 20px;">
-
+### 4.3 Observabilidade
 - Tracing
 - Runs
 - Monitoramento de latência e custo
 - Queues e Annotations
 
 *Referências*
-- *Huyen, Cap. 10 (p. 465-491)*
+- *Huyen, Cap. 10 (p. 465–491)*
 - *Albada, Cap. 10*
 
-</div>
-</details>
-
-<details>
-<summary>4.4 - Projeto</summary>
-
-<div style="margin-top: 12px; margin-left: 20px;">
-
-- Avaliação dos agentes
-- Deploy
-
-</div>
-</details>
+### 4.4 Projeto
+- Avaliação dos agentes e deploy
