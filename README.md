@@ -23,7 +23,7 @@
 - Small Language Models (SLMs)
 
 *Referências*
-- *Alammar, Cap. 7 (p. 200–201), 11–12*
+- *Alammar, Cap. 7 (p. 200–202), 11–12*
 - *Huyen, Cap. 7, 9*
 - *Albada, Cap. 7 (p. 146–162)*
 
@@ -33,7 +33,7 @@
 
 *Referências*
 - *Alammar, Cap. 9*
-- *Albada, Cap. 1 (p. 5)*
+- *Albada, Cap. 1 (p. 5-6)*
 
 ---
 ### Módulo 2 — Sistemas Agentic
@@ -50,9 +50,9 @@
 - Human-in-the-loop (HITL)
 
 *Referências*
-- *Allamar, Cap. 6, 7 (p. 218–224)*
+- *Allamar, Cap. 6, 7 (p. 209–223)*
 - *Huyen, Cap. 5, 6 (p. 275–304)*
-- *Albada Cap. 1–8, 11 (p. 251–253), 12*
+- *Albada Cap. 1–8, 11 (p. 243–260), 12*
 
 #### 2.2 Geração Aumentada via Recuperação (RAG)
 - Bancos Vetoriais
@@ -64,7 +64,7 @@
 
 *Referências*
 - *Alammar, Cap. 8*
-- *Huyen, Cap. 6 (p. 253–274)*
+- *Huyen, Cap. 6 (p. 253–275)*
 - *Albada, Cap. 6*
 
 ---
@@ -94,8 +94,8 @@
 
 *Referências*
 - *Allamar, Cap. 7*
-- *Huyen, Cap. 1 (p. 28–34), 10*
-- *Albada, Cap. 1, 4*
+- *Huyen, Cap. 1 (p. 28–35), 10*
+- *Albada, Cap. 1 (p. 3-13), 4*
 
 ---
 ### Módulo 4 — AgentOps e LangSmith
@@ -108,13 +108,13 @@
 - Comparação Pairwise
 - Testes A/B
 
+*Referências*
+- *Huyen, Cap. 3–4*
+- *Albada, Cap. 9 e 11 (p. 260-268)*
+
 #### 4.2 Deployment
 - LangSmith Cloud
 - FastAPI, Postgres e Docker
-
-*Referências*
-- *Huyen, Cap. 3–4*
-- *Albada, Cap. 9 e 11*
 
 #### 4.3 Observabilidade
 - Tracing
@@ -123,7 +123,7 @@
 - Queues e Annotations
 
 *Referências*
-- *Huyen, Cap. 10 (p. 465–491)*
+- *Huyen, Cap. 10 (p. 465–492)*
 - *Albada, Cap. 10*
 
 #### 4.4 Projeto
