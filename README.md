@@ -39,6 +39,8 @@
 ### Módulo 2 — Sistemas Agentic
 
 #### 2.1 Teoria de Agentes
+- Memory
+- Tools
 - Prompt Engineering
 - ReAct e Chain-of-Thought (CoT)
 - Reflection e Planning
@@ -70,7 +72,7 @@
 
 #### 3.1 LangChain
 - Chains
-- Memory (Short/Long term)
+- Memory
 - Tools
 - Implementações dos tópicos 2.1 e 2.2
 
