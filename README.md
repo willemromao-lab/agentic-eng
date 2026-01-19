@@ -66,7 +66,7 @@
 - *Albada, Cap. 6*
 
 
-### Módulo 3 — LangChain, MCP e LangGraph
+### Módulo 3 — LangChain, LangGraph e MCP
 ---
 #### 3.1 LangChain
 - Chains
