@@ -4,7 +4,7 @@
 
 
 ## Módulos
-
+---
 ### Módulo 1 — Large Language Models (LLMs)
 
 #### 1.1 Arquitetura Generative Pre-trained Transformer (GPT)
