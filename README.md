@@ -78,22 +78,16 @@ A abordagem assume familiaridade prévia com programação e matemática do ensi
 ## 📚 Livros utilizados como referência
 
 <p align="center">
-  <a href="https://a.co/d/iepMN2t" target="_blank" style="margin-right: 6px;">
+  <a href="https://a.co/d/iepMN2t" target="_blank">
     <img src="assets/books/alammar.jpg" width="200"/>
   </a>
-
-  <a href="https://a.co/d/27e3qs3" target="_blank" style="margin-right: 6px;">
+  <a href="https://a.co/d/27e3qs3" target="_blank">
     <img src="assets/books/huyen.jpg" width="200"/>
   </a>
-
-  <a href="https://a.co/d/aOd34A7" target="_blank" 
-  style="margin-right: 6px;">
+  <a href="https://a.co/d/aOd34A7" target="_blank">
     <img src="assets/books/albada.jpg" width="200"/>
   </a>
 </p>
-
-
-
 
 - **Alammar, J.; Grootendorst, M.**  
   *Hands-On Large Language Models*. 1st ed. O’Reilly, September 2024.
