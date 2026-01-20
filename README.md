@@ -243,6 +243,8 @@ Durante o curso, serão utilizadas as seguintes tecnologias e frameworks:
 #### 4.4 Projeto
 - Avaliação dos agentes e deploy
 
+---
+
 ## 👤 Sobre o autor
 
 <table>
