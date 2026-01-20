@@ -55,19 +55,19 @@ Este curso é destinado a:
 - Engenheiros de Machine Learning
 - Cientistas de Dados
 - Desenvolvedores de software
-- Pesquisadores e estudantes avançados em IA
+- Pesquisadores e estudantes em IA
 
 A abordagem assume familiaridade prévia com programação e matemática do ensino médio.
 
 ---
 
-## ✅ Pré-requisitos
+## ✔️ Pré-requisitos
 
 É esperado que o aluno possua:
 
 - Lógica de programação
 - Noções de Programação Orientada a Objetos (POO)
-- Python
+- Domínio da linguagem Python
 - Familiaridade com bancos de dados
 - Familiaridade com APIs REST
 - Noções de Docker e conteinerização
@@ -78,16 +78,20 @@ A abordagem assume familiaridade prévia com programação e matemática do ensi
 ## 📚 Livros utilizados como referência
 
 <p align="center">
-  <a href="https://a.co/d/iepMN2t" target="_blank">
-    <img src="assets/books/alammar.jpg" width="180"/>
+  <a href="https://a.co/d/iepMN2t" target="_blank" style="margin-right: 6px;">
+    <img src="assets/books/alammar.jpg" width="200"/>
   </a>
-  <a href="https://a.co/d/27e3qs3" target="_blank">
-    <img src="assets/books/huyen.jpg" width="180"/>
+
+  <a href="https://a.co/d/27e3qs3" target="_blank" style="margin-right: 6px;">
+    <img src="assets/books/huyen.jpg" width="200"/>
   </a>
-  <a href="https://a.co/d/aOd34A7" target="_blank">
-    <img src="assets/books/albada.jpg" width="180"/>
+
+  <a href="https://a.co/d/aOd34A7" target="_blank" 
+  style="margin-right: 6px;">
+    <img src="assets/books/albada.jpg" width="200"/>
   </a>
 </p>
+
 
 
 
@@ -98,7 +102,7 @@ A abordagem assume familiaridade prévia com programação e matemática do ensi
   *AI Engineering*. 1st ed. O’Reilly, December 2024.
 
 - **Albada, M.**  
-  *Building Applications with AI Agents*. 1st ed. Manning, September 2025.
+  *Building Applications with AI Agents*. 1st ed. O’Reilly, September 2025.
 
 ---
 
@@ -274,7 +278,7 @@ Durante o curso, serão utilizadas as seguintes tecnologias e frameworks:
 
 Este repositório está licenciado sob a **Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International (CC BY-NC-ND 4.0)**.
 
-### ✔️ Você pode
+### ✅ Você pode
 
 - Compartilhar o conteúdo para fins **educacionais e não comerciais**
 - Utilizar o material para **estudo pessoal**
