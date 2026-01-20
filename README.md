@@ -276,13 +276,13 @@ Este repositório está licenciado sob a **Creative Commons Attribution–NonCom
 
 ### ✅ Você pode
 
-- Compartilhar o conteúdo para fins **educacionais e não comerciais**
-- Utilizar o material para **estudo pessoal**
+- Compartilhar o conteúdo para fins educacionais e não comerciais
+- Utilizar o material para estudo pessoal
 
 ### ❌ Você não pode
 
-- Utilizar o conteúdo para **fins comerciais**
-- **Modificar**, adaptar ou criar obras derivadas
+- Utilizar o conteúdo para fins comerciais
+- Modificar, adaptar ou criar obras derivadas
 - Redistribuir versões modificadas do material
 
 Para mais informações, consulte o arquivo [LICENSE](LICENSE) ou a licença oficial em:  
