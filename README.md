@@ -57,7 +57,7 @@ Este curso é destinado a:
 - Desenvolvedores de software
 - Pesquisadores e estudantes em IA
 
-A abordagem assume familiaridade prévia com programação e matemática do ensino médio.
+> 🚨 A abordagem assume familiaridade prévia com programação e matemática do ensino médio.
 
 ---
 
