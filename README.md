@@ -8,8 +8,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![HuggingFace Transformers](https://img.shields.io/badge/HuggingFace%20Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black)
-
+![HuggingFace Transformers](https://img.shields.io/badge/🤗%20Transformers-FFD21E?)
 
 <!-- LLM / Agentic -->
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat)
@@ -23,12 +22,6 @@
 ![Neo4j](https://img.shields.io/badge/Neo4j-018BFF?style=flat&logo=neo4j&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-
-
-<!-- Providers -->
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white)
-
 ---
 
 ## 📘 Sobre o curso
@@ -132,10 +125,16 @@ Durante o curso, serão utilizadas as seguintes tecnologias e frameworks:
 ### Módulo 1 — Large Language Models (LLMs)
 
 #### 1.1 Arquitetura Generative Pre-trained Transformer (GPT)
+- História e evolução da Inteligência Artificial
 - Embeddings e Tokenização
 - Positional Encoding
 - Dropout
 - Blocos Transformer
+
+*Material de apoio*
+- [Slides](https://www.canva.com/design/DAG-m8JdRiA/KYkexyPi_9zbTNqmz2BWqA/edit?utm_content=DAG-m8JdRiA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- [Tutorial]()
+- [Notebook]()
 
 *Referências*
 - *Alammar, Cap. 1–3*
