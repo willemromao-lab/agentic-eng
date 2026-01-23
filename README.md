@@ -2,22 +2,28 @@
 
 [![Licença: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.pt-br)
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
-![Área](https://img.shields.io/badge/área-IA%20Generativa-purple)
+
 <!-- Core -->
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![HuggingFace Transformers](https://img.shields.io/badge/HuggingFace%20Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black)
+
 
 <!-- LLM / Agentic -->
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=chainlink&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1F2937?style=flat)
+![Deep Agents](https://img.shields.io/badge/DeepAgents-1F2937?style=flat)
 ![LangSmith](https://img.shields.io/badge/LangSmith-4B5563?style=flat)
 ![MCP](https://img.shields.io/badge/Model%20Context%20Protocol-MCP-111827?style=flat)
 
 <!-- Databases / Vector -->
 ![Pinecone](https://img.shields.io/badge/Pinecone-0055FF?style=flat&logo=pinecone&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-018BFF?style=flat&logo=neo4j&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+
 
 <!-- Providers -->
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
@@ -106,15 +112,19 @@ Durante o curso, serão utilizadas as seguintes tecnologias e frameworks:
 
 - [OpenAI API](https://platform.openai.com/docs/overview)
 - [Google Gemini API](https://ai.google.dev/gemini-api/docs?hl=pt-br)
+- [PyTorch](https://pytorch.org/get-started/locally/)
+- [HuggingFace Transformers](https://huggingface.co/docs/transformers/quicktour)
 - [LangChain](https://docs.langchain.com/oss/python/langchain/overview)
 - [LangGraph](https://docs.langchain.com/oss/python/langgraph/overview)
+- [DeepAgents](https://docs.langchain.com/oss/python/deepagents/overview)
 - [Model Context Protocol (MCP)](https://modelcontextprotocol.io/docs/getting-started/intro)
 - [LangSmith](https://docs.langchain.com/langsmith/home)
 - [Pinecone](https://docs.pinecone.io/guides/get-started/overview)
 - [Neo4j](https://neo4j.com/docs/)
 - [FastAPI](https://fastapi.tiangolo.com/)
 - [Docker](https://docs.docker.com/get-started/)
-- [PostgreSQL](https://docs.langchain.com/oss/python/langgraph/add-memory#async)
+- [PostgreSQL](https://docs.langchain.com/oss/python/langgraph/add-memory#example-using-postgres-checkpointer)
+- [Redis](https://docs.langchain.com/oss/python/langgraph/add-memory#example-using-redis-checkpointer)
 ---
 
 ## 🗂️ Estrutura do curso
@@ -158,6 +168,7 @@ Durante o curso, serão utilizadas as seguintes tecnologias e frameworks:
 - Prompt Engineering
 - ReAct e Chain-of-Thought (CoT)
 - Reflection e Planning
+- Deep Agents
 - Agents Protocol (A2A, ACP e MCP)
 - LLM Routing e Fallbacks
 - Guardrails e Proteção contra Prompt Injection
@@ -181,6 +192,14 @@ Durante o curso, serão utilizadas as seguintes tecnologias e frameworks:
 - *Huyen, Cap. 6 (p. 253–275)*
 - *Albada, Cap. 6*
 
+### 2.3 Projeto
+
+- Definição do escopo, design da arquitetura do agente e seleção dos Foundation Models
+
+*Referências*
+- *Huyen, Cap. 1 (p. 28–35), 10*
+- *Albada, Cap. 1 (p. 3-13), 4*
+
 ---
 ### Módulo 3 — LangChain, LangGraph e MCP
 
@@ -203,13 +222,10 @@ Durante o curso, serão utilizadas as seguintes tecnologias e frameworks:
 - Primitives (Tools, Resources e Prompts)
 
 #### 3.4 Projeto
-- Definição do escopo, design da arquitetura do agente e seleção dos Foundation Models
 - Implementação de Tools, integração de bancos vetoriais e orquestração de memória
 
 *Referências*
 - *Allamar, Cap. 7*
-- *Huyen, Cap. 1 (p. 28–35), 10*
-- *Albada, Cap. 1 (p. 3-13), 4*
 
 ---
 ### Módulo 4 — AgentOps e LangSmith
