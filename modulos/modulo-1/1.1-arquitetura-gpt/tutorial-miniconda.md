@@ -64,3 +64,75 @@ conda --version
 ```
 
 Se a instalação foi bem-sucedida, você verá a lista de pacotes instalados ou o número da versão do conda.
+
+## 5. Criar e ativar ambientes virtuais
+
+Os ambientes virtuais permitem isolar projetos com diferentes dependências e versões de Python.
+
+### Criar um novo ambiente
+
+Para criar um ambiente com uma versão específica do Python:
+
+```bash
+conda create -n nome_do_ambiente python=3.10
+```
+
+Por exemplo, para criar um ambiente chamado "llm_project":
+
+```bash
+conda create -n llm_project python=3.10
+```
+
+### Ativar um ambiente
+
+Para ativar o ambiente criado:
+
+```bash
+conda activate nome_do_ambiente
+```
+
+Exemplo:
+
+```bash
+conda activate llm_project
+```
+
+Após ativar, você verá `(llm_project)` no prompt do terminal em vez de `(base)`.
+
+### Desativar um ambiente
+
+Para retornar ao ambiente base:
+
+```bash
+conda deactivate
+```
+
+### Listar ambientes existentes
+
+Para ver todos os ambientes criados:
+
+```bash
+conda env list
+```
+
+### Instalar pacotes em um ambiente
+
+Com o ambiente ativado, instale pacotes usando:
+
+```bash
+conda install nome_do_pacote
+```
+
+Ou usando pip:
+
+```bash
+pip install nome_do_pacote
+```
+
+### Remover um ambiente
+
+Para excluir um ambiente que não é mais necessário:
+
+```bash
+conda env remove -n nome_do_ambiente
+```
