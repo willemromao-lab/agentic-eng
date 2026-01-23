@@ -134,7 +134,6 @@ Durante o curso, serão utilizadas as seguintes tecnologias e frameworks:
 *Material de apoio*
 - [Slides](https://www.canva.com/design/DAG-m8JdRiA/KYkexyPi_9zbTNqmz2BWqA/edit?utm_content=DAG-m8JdRiA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - [Tutorial](/modulos/modulo-1/1.1-arquitetura-gpt/tutorial-miniconda.md)
-- [Notebook]()
 
 *Referências*
 - *Alammar, Cap. 1–3*
