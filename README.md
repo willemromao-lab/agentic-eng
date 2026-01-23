@@ -190,7 +190,7 @@ Durante o curso, serão utilizadas as seguintes tecnologias e frameworks:
 - *Huyen, Cap. 6 (p. 253–275)*
 - *Albada, Cap. 6*
 
-### 2.3 Projeto
+#### 2.3 Projeto
 
 - Definição do escopo, design da arquitetura do agente e seleção dos Foundation Models
 
