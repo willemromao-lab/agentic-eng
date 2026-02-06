@@ -132,8 +132,10 @@ Durante o curso, serão utilizadas as seguintes tecnologias e frameworks:
 - Blocos Transformer
 
 *Material de apoio*
-- [Slides](https://www.canva.com/design/DAG-m8JdRiA/KYkexyPi_9zbTNqmz2BWqA/edit?utm_content=DAG-m8JdRiA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- [Slide 1](https://www.canva.com/design/DAG-m8JdRiA/KYkexyPi_9zbTNqmz2BWqA/edit?utm_content=DAG-m8JdRiA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- [Slide 2](https://www.canva.com/design/DAHAgZR6wSY/5zfTwJXrmbtwYoMT9a4C7g/edit?utm_content=DAHAgZR6wSY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - [Configuração do ambiente](/modulos/modulo-1/1.1-arquitetura-gpt//configuracao-ambiente-experimentos.md)
+- [Exemplo de implementação](/modulos/modulo-1/1.1-arquitetura-gpt/exemplo-implementacao.ipynb)
 
 *Referências*
 - *Alammar, Cap. 1–3*
