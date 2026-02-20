@@ -1,6 +1,6 @@
 # Tutorial de Configuração do Ambiente para Experimentos
 
-Durante o curso é importante isolarmos ambientes para garantir que nossos experimentos não deem conflito com outros. Para resolver esse problema, usaremos o **Miniconda**, que é uma ferramenta para fazermos esse isolamento de ambientes.
+Durante o curso é importante isolarmos ambientes para garantir que nossos experimentos não deem conflito com outros. Para resolver esse problema, usaremos o **uv**, que é uma ferramenta para fazermos esse isolamento de ambientes.
 
 ## ⚠️ Atenção - Sistema Operacional
 
@@ -25,108 +25,29 @@ https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter
 
 ---
 
-## 🐍 Instalação do Miniconda
+## 🟪 Instalação e criação de ambientes com uv
 
-Para instalar o Miniconda, execute os seguintes comandos:
-
-```bash
-mkdir -p ~/miniconda3
-wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh -O ~/miniconda3/miniconda.sh
-bash ~/miniconda3/miniconda.sh -b -u -p ~/miniconda3
-rm ~/miniconda3/miniconda.sh
-```
-
-Ative o Conda:
+Para instalar o uv, execute os seguintes comandos:
 
 ```bash
-source ~/miniconda3/bin/activate
+curl -LsSf https://astral.sh/uv/install.sh | sh
 ```
 
-Inicialize o Conda para todos os shells:
+Dentro da pasta do seu projeto, execute:
 
 ```bash
-conda init --all
+uv init --bare
 ```
 
-Configure para não ativar o ambiente base automaticamente:
+Instale o jupyter e o ipykernel (programa que roda o código Python por trás do Jupyter Notebook) dentro do ambiente
 
 ```bash
-conda config --set auto_activate_base false
+uv add jupyter ipykernel
 ```
 
-Verifique se o Conda foi instalado corretamente:
+Registre o ambiente Python gerenciado pelo uv como um kernel do Jupyter para você selecioná-lo nos notebooks:
 
 ```bash
-conda --version
+uv run python -m ipykernel install --user --name meu-ambiente --display-name "meu ambiente"
 ```
-
-✅ Se estiver OK, vai mostrar a versão do Conda instalada.
-
 ---
-
-## 🔧 Criando um Ambiente
-
-Criando um ambiente com uma versão específica do Python com pip e motor de execução do Python no Jupyter:
-
-**Sintaxe:**
-```bash
-conda create --name <ENV_NAME> python=<PYTHON_VERSION> pip ipykernel
-```
-
-**Exemplo:**
-```bash
-conda create --name curso_llms_agentes python=3.12 pip ipykernel
-```
-
----
-
-## ✅ Ativando o Ambiente
-
-**Sintaxe:**
-```bash
-conda activate <ENV_NAME>
-```
-
-**Exemplo:**
-```bash
-conda activate curso_llms_agentes
-```
-
----
-
-## 📦 Instalando Pacotes pip
-
-**Instalando um pacote:**
-
-Sintaxe:
-```bash
-pip install <PACKAGE>
-```
-
-Exemplo:
-```bash
-pip install langchain
-```
-
-**Instalando muitos pacotes:**
-
-Sintaxe:
-```bash
-pip install <PACKAGE1> <PACKAGE2> <PACKAGE3>
-```
-
-Exemplo:
-```bash
-pip install langchain langgraph
-```
-
----
-
-## 📋 Comandos Úteis
-
-| Comando | Descrição |
-|---------|-----------|
-| `conda deactivate` | Desativar o ambiente atual |
-| `conda info --envs` | Listar todos os ambientes |
-| `conda remove --name <ENV_NAME> --all` | Remover um ambiente |
-| `pip list` | Listar pacotes instalados |
