@@ -163,6 +163,10 @@ Durante o curso, serão utilizadas as seguintes tecnologias e frameworks:
 - *Alammar, Cap. 9*
 - *Albada, Cap. 1 (p. 5-6)*
 
+*Material de apoio*
+
+- [Slide 1](https://www.canva.com/design/DAHDH5j2TIs/eQQDzZENWvaH09V6Cpx4lg/edit?utm_content=DAHDH5j2TIs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 ---
 ### Módulo 2 — Sistemas Agentic
 
