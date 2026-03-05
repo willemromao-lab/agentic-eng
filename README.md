@@ -141,10 +141,6 @@ Durante o curso, serão utilizadas as seguintes tecnologias e frameworks:
 - *Alammar, Cap. 1–3*
 - *Huyen, Cap. 1–2*
 
-*Material de apoio*
-
-- [Slide 1](https://www.canva.com/design/DAHCdy5v8q8/4nqcGrjbPrElYPMZpTAQlw/edit?utm_content=DAHCdy5v8q8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
 #### 1.2 Post-Training e Eficiência
 - Fine-Tuning (LoRA, QLoRA, SFT, RLHF e DPO)
 - Quantização
@@ -154,6 +150,10 @@ Durante o curso, serão utilizadas as seguintes tecnologias e frameworks:
 - *Alammar, Cap. 7 (p. 200–202), 11–12*
 - *Huyen, Cap. 7, 9*
 - *Albada, Cap. 7 (p. 146–162)*
+
+*Material de apoio*
+
+- [Slide 1](https://www.canva.com/design/DAHCdy5v8q8/4nqcGrjbPrElYPMZpTAQlw/edit?utm_content=DAHCdy5v8q8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 #### 1.3 Multimodal Large Language Models (MLLM) e Interface de Modelos
 - CLIP/BLIP-2
