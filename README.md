@@ -166,7 +166,6 @@ Durante o curso, serão utilizadas as seguintes tecnologias e frameworks:
 *Material de apoio*
 
 - [Slide 1](https://www.canva.com/design/DAHDH5j2TIs/eQQDzZENWvaH09V6Cpx4lg/edit?utm_content=DAHDH5j2TIs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
 - [Multimodalide com GPT e GEMINI](/modulos/modulo-1/1.3-mllm-interface-modelos/multimodalidade-gpt-gemini.ipynb)
 
 ---
