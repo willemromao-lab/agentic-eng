@@ -166,7 +166,10 @@ Durante o curso, serão utilizadas as seguintes tecnologias e frameworks:
 *Material de apoio*
 
 - [Slide 1](https://www.canva.com/design/DAHDH5j2TIs/eQQDzZENWvaH09V6Cpx4lg/edit?utm_content=DAHDH5j2TIs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-- [Multimodalide com GPT e GEMINI](/modulos/modulo-1/1.3-mllm-interface-modelos/multimodalidade-gpt-gemini.ipynb)
+- [Multimodalidde com GPT e GEMINI](/modulos/modulo-1/1.3-mllm-interface-modelos/multimodalidade-gpt-gemini.ipynb)
+- [Integração Azure](/modulos/modulo-1/1.3-mllm-interface-modelos/integracao-azure.ipynb)
+- [Atividade](/modulos/modulo-1/1.3-mllm-interface-modelos/atividade.md)
+
 
 ---
 ### Módulo 2 — Sistemas Agentic
@@ -187,6 +190,9 @@ Durante o curso, serão utilizadas as seguintes tecnologias e frameworks:
 - *Allamar, Cap. 6, 7 (p. 209–223)*
 - *Huyen, Cap. 5, 6 (p. 275–304)*
 - *Albada Cap. 1–8, 11 (p. 243–260), 12*
+
+*Material de apoio*
+- [Slide 1](https://www.canva.com/design/DAHDygYu_TE/aA_ZV5P-QWi4usgTDMN7oA/edit?utm_content=DAHDygYu_TE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 #### 2.2 Geração Aumentada via Recuperação (RAG)
 - Bancos Vetoriais
