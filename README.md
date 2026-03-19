@@ -153,7 +153,7 @@ Durante o curso, serão utilizadas as seguintes tecnologias e frameworks:
 
 *Material de apoio*
 
-- [Slide 1](https://www.canva.com/design/DAHCdy5v8q8/4nqcGrjbPrElYPMZpTAQlw/edit?utm_content=DAHCdy5v8q8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- [Slide](https://www.canva.com/design/DAHCdy5v8q8/4nqcGrjbPrElYPMZpTAQlw/edit?utm_content=DAHCdy5v8q8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 #### 1.3 Multimodal Large Language Models (MLLM) e Interface de Modelos
 - CLIP/BLIP-2
@@ -165,8 +165,8 @@ Durante o curso, serão utilizadas as seguintes tecnologias e frameworks:
 
 *Material de apoio*
 
-- [Slide 1](https://www.canva.com/design/DAHDH5j2TIs/eQQDzZENWvaH09V6Cpx4lg/edit?utm_content=DAHDH5j2TIs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-- [Multimodalidde com GPT e GEMINI](/modulos/modulo-1/1.3-mllm-interface-modelos/multimodalidade-gpt-gemini.ipynb)
+- [Slide](https://www.canva.com/design/DAHDH5j2TIs/eQQDzZENWvaH09V6Cpx4lg/edit?utm_content=DAHDH5j2TIs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- [Multimodalide com GPT e Gemini](/modulos/modulo-1/1.3-mllm-interface-modelos/multimodalidade-gpt-gemini.ipynb)
 - [Integração Azure](/modulos/modulo-1/1.3-mllm-interface-modelos/integracao-azure.ipynb)
 - [Atividade](/modulos/modulo-1/1.3-mllm-interface-modelos/atividade.md)
 
@@ -193,6 +193,7 @@ Durante o curso, serão utilizadas as seguintes tecnologias e frameworks:
 
 *Material de apoio*
 - [Slide 1](https://www.canva.com/design/DAHDygYu_TE/aA_ZV5P-QWi4usgTDMN7oA/edit?utm_content=DAHDygYu_TE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- [Slide 2](https://www.canva.com/design/DAHEbijwR8E/i_h17T5sWSs49hDIKdBM9w/edit?utm_content=DAHEbijwR8E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 #### 2.2 Geração Aumentada via Recuperação (RAG)
 - Bancos Vetoriais
@@ -206,6 +207,9 @@ Durante o curso, serão utilizadas as seguintes tecnologias e frameworks:
 - *Alammar, Cap. 8*
 - *Huyen, Cap. 6 (p. 253–275)*
 - *Albada, Cap. 6*
+
+*Material de apoio*
+- [Slide](https://www.canva.com/design/DAHEbrzXpxw/B5l7ROI0C8NWAzAyDnHx0A/edit?utm_content=DAHEbrzXpxw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 #### 2.3 Projeto
 
