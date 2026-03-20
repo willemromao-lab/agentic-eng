@@ -180,6 +180,7 @@ Durante o curso, serão utilizadas as seguintes tecnologias e frameworks:
 - Prompt Engineering
 - ReAct e Chain-of-Thought (CoT)
 - Reflection e Planning
+- Multi-agent Systems
 - Agents Protocol (A2A, ACP e MCP)
 - LLM Routing e Fallbacks
 - Guardrails e Proteção contra Prompt Injection
