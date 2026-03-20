@@ -193,6 +193,8 @@ Durante o curso, serão utilizadas as seguintes tecnologias e frameworks:
 *Material de apoio*
 - [Slide 1](https://www.canva.com/design/DAHDygYu_TE/aA_ZV5P-QWi4usgTDMN7oA/edit?utm_content=DAHDygYu_TE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - [Slide 2](https://www.canva.com/design/DAHEbijwR8E/i_h17T5sWSs49hDIKdBM9w/edit?utm_content=DAHEbijwR8E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- [Documentação sobre A2A](https://a2a-protocol.org/latest/)
+- [Documentação sobre ACP](https://agentcommunicationprotocol.dev/introduction/welcome)
 
 #### 2.2 Geração Aumentada via Recuperação (RAG)
 - Bancos Vetoriais
