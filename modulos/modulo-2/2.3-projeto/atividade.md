@@ -12,7 +12,7 @@ Esta atividade marca o início da fase de design do seu sistema baseado em agent
 
 ## 3. Ferramentas e Integrações (Tooling)
 - **Capacidades**: O que o agente deve ser capaz de fazer autonomamente?
-- **Tools**: Liste as ferramentas externas (APIs, Python Interpreter, busca na web) que o agente poderá invocar.
+- **Tools**: Liste as ferramentas externas (APIs, busca na web, etc.) que o agente poderá invocar.
 - **MCP (opcional)**: O sistema utilizará o Model Context Protocol para acessar recursos externos?
 
 ## 4. Estratégia de Memória e RAG

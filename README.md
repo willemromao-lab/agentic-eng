@@ -1,7 +1,7 @@
 <div align="center">
   <br>
-  <b><font size="12">Engenharia de LLMs e Sistemas Agentic</font></b><br>
-  <font size="12">🤖 🧠 🛠️</font>
+  <b><font size="7">Engenharia de LLMs e Sistemas Agentic</font></b><br>
+  <font size="7">🤖 🧠 🛠️</font>
   <br><br>
 
 [![Licença: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.pt-br)
