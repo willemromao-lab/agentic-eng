@@ -1,4 +1,8 @@
-# Engenharia de LLMs e Sistemas Agentic 🤖🧠🛠️
+<div align="center">
+  <br>
+  <b><font size="6">Engenharia de LLMs e Sistemas Agentic</font></b><br>
+  <font size="6">🤖 🧠 🛠️</font>
+  <br><br>
 
 [![Licença: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.pt-br)
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
@@ -22,6 +26,8 @@
 ![Neo4j](https://img.shields.io/badge/Neo4j-018BFF?style=flat&logo=neo4j&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+</div>
+
 ---
 
 ## 📘 Sobre o curso
@@ -132,10 +138,10 @@ Durante o curso, serão utilizadas as seguintes tecnologias e frameworks:
 - Blocos Transformer
 
 *Material de apoio*
-- [Slide 1](https://www.canva.com/design/DAG-m8JdRiA/KYkexyPi_9zbTNqmz2BWqA/edit?utm_content=DAG-m8JdRiA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-- [Slide 2](https://www.canva.com/design/DAHAgZR6wSY/5zfTwJXrmbtwYoMT9a4C7g/edit?utm_content=DAHAgZR6wSY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-- [Configuração do ambiente](/modulos/modulo-1/1.1-arquitetura-gpt//configuracao-ambiente-experimentos.md)
-- [Exemplo de implementação](/modulos/modulo-1/1.1-arquitetura-gpt/exemplo-implementacao.ipynb)
+- 🖼️ [Slide 1](https://www.canva.com/design/DAG-m8JdRiA/KYkexyPi_9zbTNqmz2BWqA/edit?utm_content=DAG-m8JdRiA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 🖼️ [Slide 2](https://www.canva.com/design/DAHAgZR6wSY/5zfTwJXrmbtwYoMT9a4C7g/edit?utm_content=DAHAgZR6wSY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 🔗 [Configuração do ambiente](/modulos/modulo-1/1.1-arquitetura-gpt//configuracao-ambiente-experimentos.md)
+- 🔗 [Exemplo de implementação](/modulos/modulo-1/1.1-arquitetura-gpt/exemplo-implementacao.ipynb)
 
 *Referências*
 - *Alammar, Cap. 1–3*
@@ -153,7 +159,7 @@ Durante o curso, serão utilizadas as seguintes tecnologias e frameworks:
 
 *Material de apoio*
 
-- [Slide](https://www.canva.com/design/DAHCdy5v8q8/4nqcGrjbPrElYPMZpTAQlw/edit?utm_content=DAHCdy5v8q8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 🖼️ [Slide](https://www.canva.com/design/DAHCdy5v8q8/4nqcGrjbPrElYPMZpTAQlw/edit?utm_content=DAHCdy5v8q8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 #### 1.3 Multimodal Large Language Models (MLLM) e Interface de Modelos
 - CLIP/BLIP-2
@@ -165,10 +171,10 @@ Durante o curso, serão utilizadas as seguintes tecnologias e frameworks:
 
 *Material de apoio*
 
-- [Slide](https://www.canva.com/design/DAHDH5j2TIs/eQQDzZENWvaH09V6Cpx4lg/edit?utm_content=DAHDH5j2TIs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-- [Multimodalide com GPT e Gemini](/modulos/modulo-1/1.3-mllm-interface-modelos/multimodalidade-gpt-gemini.ipynb)
-- [Integração Azure](/modulos/modulo-1/1.3-mllm-interface-modelos/integracao-azure.ipynb)
-- [Atividade](/modulos/modulo-1/1.3-mllm-interface-modelos/atividade.md)
+- 🖼️ [Slide](https://www.canva.com/design/DAHDH5j2TIs/eQQDzZENWvaH09V6Cpx4lg/edit?utm_content=DAHDH5j2TIs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 🔗 [Multimodalide com GPT e Gemini](/modulos/modulo-1/1.3-mllm-interface-modelos/multimodalidade-gpt-gemini.ipynb)
+- 🔗 [Integração Azure](/modulos/modulo-1/1.3-mllm-interface-modelos/integracao-azure.ipynb)
+- 🔗 [Atividade](/modulos/modulo-1/1.3-mllm-interface-modelos/atividade.md)
 
 
 ---
@@ -192,10 +198,10 @@ Durante o curso, serão utilizadas as seguintes tecnologias e frameworks:
 - *Albada Cap. 1–8, 11 (p. 243–260), 12*
 
 *Material de apoio*
-- [Slide 1](https://www.canva.com/design/DAHDygYu_TE/aA_ZV5P-QWi4usgTDMN7oA/edit?utm_content=DAHDygYu_TE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-- [Slide 2](https://www.canva.com/design/DAHEbijwR8E/i_h17T5sWSs49hDIKdBM9w/edit?utm_content=DAHEbijwR8E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-- [Documentação sobre A2A](https://a2a-protocol.org/latest/)
-- [Documentação sobre ACP](https://agentcommunicationprotocol.dev/introduction/welcome)
+- 🖼️ [Slide 1](https://www.canva.com/design/DAHDygYu_TE/aA_ZV5P-QWi4usgTDMN7oA/edit?utm_content=DAHDygYu_TE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 🖼️ [Slide 2](https://www.canva.com/design/DAHEbijwR8E/i_h17T5sWSs49hDIKdBM9w/edit?utm_content=DAHEbijwR8E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 🔗 [Documentação sobre A2A](https://a2a-protocol.org/latest/)
+- 🔗 [Documentação sobre ACP](https://agentcommunicationprotocol.dev/introduction/welcome)
 
 #### 2.2 Geração Aumentada via Recuperação (RAG)
 - Bancos Vetoriais
@@ -211,7 +217,7 @@ Durante o curso, serão utilizadas as seguintes tecnologias e frameworks:
 - *Albada, Cap. 6*
 
 *Material de apoio*
-- [Slide](https://www.canva.com/design/DAHEbrzXpxw/B5l7ROI0C8NWAzAyDnHx0A/edit?utm_content=DAHEbrzXpxw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 🖼️ [Slide](https://www.canva.com/design/DAHEbrzXpxw/B5l7ROI0C8NWAzAyDnHx0A/edit?utm_content=DAHEbrzXpxw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 #### 2.3 Projeto
 
@@ -221,6 +227,9 @@ Durante o curso, serão utilizadas as seguintes tecnologias e frameworks:
 - *Huyen, Cap. 1 (p. 28–35), 10*
 - *Albada, Cap. 1 (p. 3-13), 4*
 
+*Material de apoio*
+- 🖼️ [Slide]()
+- 🔗 [Atividade de projeto]()
 ---
 ### Módulo 3 — LangChain, LangGraph e MCP
 
