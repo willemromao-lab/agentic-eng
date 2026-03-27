@@ -1,14 +1,6 @@
 <div align="center">
-  <table align="center">
-    <tr>
-      <td align="center" style="border: none;">
-        <br>
-        <h1>Engenharia de LLMs e Sistemas Agentic</h1>
-        <h1>🤖 🧠 🛠️</h1>
-        <br>
-      </td>
-    </tr>
-  </table>
+  <h1>Engenharia de LLMs e Sistemas Agentic</h1>
+  <h1>🤖 🧠 🛠️</h1>
 
 [![Licença: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.pt-br)
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
