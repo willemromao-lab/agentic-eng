@@ -174,7 +174,7 @@ Durante o curso, serão utilizadas as seguintes tecnologias e frameworks:
 - 🖼️ [Slide](https://www.canva.com/design/DAHDH5j2TIs/eQQDzZENWvaH09V6Cpx4lg/edit?utm_content=DAHDH5j2TIs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - 🔗 [Multimodalide com GPT e Gemini](/modulos/modulo-1/1.3-mllm-interface-modelos/multimodalidade-gpt-gemini.ipynb)
 - 🔗 [Integração Azure](/modulos/modulo-1/1.3-mllm-interface-modelos/integracao-azure.ipynb)
-- 🔗 [Atividade](/modulos/modulo-1/1.3-mllm-interface-modelos/atividade.md)
+- 📄 [Atividade](/modulos/modulo-1/1.3-mllm-interface-modelos/atividade.md)
 
 
 ---
@@ -214,7 +214,7 @@ Durante o curso, serão utilizadas as seguintes tecnologias e frameworks:
 *Referências*
 - *Alammar, Cap. 8*
 - *Huyen, Cap. 6 (p. 253–275)*
-- *Albada, Cap. 6*
+- *Albada, Cap. 4, 6*
 
 *Material de apoio*
 - 🖼️ [Slide](https://www.canva.com/design/DAHEbrzXpxw/B5l7ROI0C8NWAzAyDnHx0A/edit?utm_content=DAHEbrzXpxw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
@@ -224,12 +224,13 @@ Durante o curso, serão utilizadas as seguintes tecnologias e frameworks:
 - Definição do escopo, design da arquitetura do agente e seleção dos Foundation Models
 
 *Referências*
-- *Huyen, Cap. 1 (p. 28–35), 10*
-- *Albada, Cap. 1 (p. 3-13), 4*
+- *Huyen, Cap. 1 (p. 28–35), 4 (p. 179-200), 10*
+- *Albada, Cap. 1 (p. 3-13)*
 
 *Material de apoio*
-- 🖼️ [Slide]()
-- 🔗 [Atividade de projeto]()
+- 🖼️ [Slide](https://canva.link/b8e65i4qpejixjl)
+- 📄 [Atividade de projeto](/modulos/modulo-2/2.3-projeto/atividade.md)
+- 🔗 [Análise de LLMs](https://artificialanalysis.ai/)
 ---
 ### Módulo 3 — LangChain, LangGraph e MCP
 
@@ -238,6 +239,7 @@ Durante o curso, serão utilizadas as seguintes tecnologias e frameworks:
 - Memory
 - Tools
 - Deep Agents
+- Coding Agents (AGENTS.md, Skills, Sub-agents)
 - Implementações dos tópicos 2.1 e 2.2
 
 #### 3.2 LangGraph
@@ -247,6 +249,10 @@ Durante o curso, serão utilizadas as seguintes tecnologias e frameworks:
 - Paralelização
 - Sub-grafos
 
+*Material de apoio*
+
+- 🔗 [Arquitetando em LangGraph](https://docs.langchain.com/oss/python/langgraph/thinking-in-langgraph)
+
 #### 3.3 Model Context Protocol (MCP)
 - Arquitetura
 - Protocolo
@@ -254,6 +260,12 @@ Durante o curso, serão utilizadas as seguintes tecnologias e frameworks:
 
 #### 3.4 Projeto
 - Implementação de Tools, integração de bancos vetoriais e orquestração de memória
+
+*Material de apoio*
+
+- 🔗 [Interface de Chat - LangChain Vercel](https://agentchat.vercel.app/)
+- 🔗 [Interface de Chat - LangChain GitHub](https://github.com/langchain-ai/agent-chat-ui)
+- 🔗 [Inteface de Chat - Streamlit](https://streamlit.io/gallery?category=llms)
 
 *Referências*
 - *Allamar, Cap. 7*
