@@ -82,13 +82,13 @@ Este curso é destinado a:
 
 <p align="center">
   <a href="https://a.co/d/iepMN2t" target="_blank">
-    <img src="assets/books/alammar.jpg" width="200"/>
+    <img src="images/books/alammar.jpg" width="200"/>
   </a>
   <a href="https://a.co/d/27e3qs3" target="_blank">
-    <img src="assets/books/huyen.jpg" width="200"/>
+    <img src="images/books/huyen.jpg" width="200"/>
   </a>
   <a href="https://a.co/d/aOd34A7" target="_blank">
-    <img src="assets/books/albada.jpg" width="200"/>
+    <img src="images/books/albada.jpg" width="200"/>
   </a>
 </p>
 
@@ -307,7 +307,7 @@ Durante o curso, serão utilizadas as seguintes tecnologias e frameworks:
 <table>
   <tr>
     <td width="200" valign="top" align="center">
-      <img src="assets/profile/photo.png" alt="Foto do autor" width="180"/>
+      <img src="images/profile/photo.png" alt="Foto do autor" width="180"/>
     </td>
     <td valign="top">
       <p>
