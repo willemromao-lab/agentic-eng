@@ -230,14 +230,13 @@ Durante o curso, serão utilizadas as seguintes tecnologias e frameworks:
 - 📄 [Atividade de projeto](/modulos/modulo-2/2.3-projeto/atividade.md)
 - 🔗 [Análise de LLMs](https://artificialanalysis.ai/)
 ---
-### Módulo 3 — LangChain, LangGraph e MCP
+### Módulo 3 — Ferramentas para Engenharia de Agentes
 
 #### 3.1 LangChain
 - Chains
 - Memory
 - Tools
-- Deep Agents
-- Coding Agents (AGENTS.md, Skills, Sub-agents)
+- Middlewares
 - Implementações dos tópicos 2.1 e 2.2
 
 #### 3.2 LangGraph
@@ -256,7 +255,14 @@ Durante o curso, serão utilizadas as seguintes tecnologias e frameworks:
 - Protocolo
 - Primitives (Tools, Resources e Prompts)
 
-#### 3.4 Projeto
+#### 3.4 Deep Agents
+- Arquitetura
+- Subagentes
+- Virtual Filesystems
+- Skills
+- Memory
+
+#### 3.5 Projeto
 - Implementação de Tools, integração de bancos vetoriais e orquestração de memória
 
 *Material de apoio*
