@@ -239,6 +239,11 @@ Durante o curso, serão utilizadas as seguintes tecnologias e frameworks:
 - Middlewares
 - Implementações dos tópicos 2.1 e 2.2
 
+*Material de apoio*
+- 🖼️ [Slide](https://canva.link/d6ssx8nfc1hx1o9)
+- 🔗 [LangChain Parte 1](/modulos/modulo-3/3.1-langchain/langchain-parte-1.ipynb)
+
+
 #### 3.2 LangGraph
 - Grafos de estado (State Schema)
 - Nodes
