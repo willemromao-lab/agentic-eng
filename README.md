@@ -171,6 +171,7 @@ Durante o curso, serão utilizadas as seguintes tecnologias e frameworks:
 
 - 🖼️ [Slide](https://www.canva.com/design/DAHDH5j2TIs/eQQDzZENWvaH09V6Cpx4lg/edit?utm_content=DAHDH5j2TIs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - 🔗 [Multimodalide com GPT e Gemini](/modulos/modulo-1/1.3-mllm-interface-modelos/multimodalidade-gpt-gemini.ipynb)
+- 🔗 [Plataforma de APIs unificadas - OpenRouter](https://openrouter.ai/)
 - 🔗 [Integração Azure](/modulos/modulo-1/1.3-mllm-interface-modelos/integracao-azure.ipynb)
 - 📄 [Atividade](/modulos/modulo-1/1.3-mllm-interface-modelos/atividade.md)
 
@@ -242,7 +243,7 @@ Durante o curso, serão utilizadas as seguintes tecnologias e frameworks:
 *Material de apoio*
 - 🖼️ [Slide](https://canva.link/d6ssx8nfc1hx1o9)
 - 🔗 [LangChain Parte 1](/modulos/modulo-3/3.1-langchain/langchain-parte-1.ipynb)
-
+- 🔗 [LangChain Parte 2](/modulos/modulo-3/3.1-langchain/langchain-parte-2.ipynb)
 
 #### 3.2 LangGraph
 - Grafos de estado (State Schema)
@@ -272,9 +273,10 @@ Durante o curso, serão utilizadas as seguintes tecnologias e frameworks:
 
 *Material de apoio*
 
-- 🔗 [Interface de Chat - LangChain Vercel](https://agentchat.vercel.app/)
-- 🔗 [Interface de Chat - LangChain GitHub](https://github.com/langchain-ai/agent-chat-ui)
-- 🔗 [Inteface de Chat - Streamlit](https://streamlit.io/gallery?category=llms)
+- 🔗 [UI (prototipação) - Streamlit](https://streamlit.io/gallery?category=llms)
+- 🔗 [UI (prototipação) - LangChain Vercel](https://agentchat.vercel.app/)
+- 🔗 [UI (produção) - LangChain GitHub](https://github.com/langchain-ai/agent-chat-ui)
+- 🔗 [UI (produção) - LangChain](https://docs.langchain.com/oss/python/langchain/frontend/overview)
 
 *Referências*
 - *Allamar, Cap. 7*
