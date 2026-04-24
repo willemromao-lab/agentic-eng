@@ -150,22 +150,18 @@ Durante o curso, serão utilizadas as seguintes tecnologias e frameworks:
 - Quantização
 - Small Language Models (SLMs)
 
+*Material de apoio*
+
+- 🖼️ [Slide](https://www.canva.com/design/DAHCdy5v8q8/4nqcGrjbPrElYPMZpTAQlw/edit?utm_content=DAHCdy5v8q8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 *Referências*
 - *Alammar, Cap. 7 (p. 200–202), 11–12*
 - *Huyen, Cap. 7, 9*
 - *Albada, Cap. 7 (p. 146–162)*
 
-*Material de apoio*
-
-- 🖼️ [Slide](https://www.canva.com/design/DAHCdy5v8q8/4nqcGrjbPrElYPMZpTAQlw/edit?utm_content=DAHCdy5v8q8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
 #### 1.3 Multimodal Large Language Models (MLLM) e Interface de Modelos
 - CLIP/BLIP-2
 - Integração via API (OpenAI/Gemini)
-
-*Referências*
-- *Alammar, Cap. 9*
-- *Albada, Cap. 1 (p. 5-6)*
 
 *Material de apoio*
 
@@ -175,6 +171,9 @@ Durante o curso, serão utilizadas as seguintes tecnologias e frameworks:
 - 🔗 [Integração Azure](/modulos/modulo-1/1.3-mllm-interface-modelos/integracao-azure.ipynb)
 - 📄 [Atividade](/modulos/modulo-1/1.3-mllm-interface-modelos/atividade.md)
 
+*Referências*
+- *Alammar, Cap. 9*
+- *Albada, Cap. 1 (p. 5-6)*
 
 ---
 ### Módulo 2 — Sistemas Agentic
@@ -191,16 +190,16 @@ Durante o curso, serão utilizadas as seguintes tecnologias e frameworks:
 - Guardrails e Proteção contra Prompt Injection
 - Human-in-the-loop (HITL)
 
-*Referências*
-- *Allamar, Cap. 6, 7 (p. 209–223)*
-- *Huyen, Cap. 5, 6 (p. 275–304)*
-- *Albada Cap. 1–8, 11 (p. 243–260), 12*
-
 *Material de apoio*
 - 🖼️ [Slide 1](https://www.canva.com/design/DAHDygYu_TE/aA_ZV5P-QWi4usgTDMN7oA/edit?utm_content=DAHDygYu_TE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - 🖼️ [Slide 2](https://www.canva.com/design/DAHEbijwR8E/i_h17T5sWSs49hDIKdBM9w/edit?utm_content=DAHEbijwR8E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - 🔗 [Documentação sobre A2A](https://a2a-protocol.org/latest/)
 - 🔗 [Documentação sobre ACP](https://agentcommunicationprotocol.dev/introduction/welcome)
+
+*Referências*
+- *Allamar, Cap. 6, 7 (p. 209–223)*
+- *Huyen, Cap. 5, 6 (p. 275–304)*
+- *Albada Cap. 1–8, 11 (p. 243–260), 12*
 
 #### 2.2 Geração Aumentada via Recuperação (RAG)
 - Bancos Vetoriais
@@ -210,27 +209,28 @@ Durante o curso, serão utilizadas as seguintes tecnologias e frameworks:
 - Agentic RAG
 - Graph RAG
 
+*Material de apoio*
+- 🖼️ [Slide](https://www.canva.com/design/DAHEbrzXpxw/B5l7ROI0C8NWAzAyDnHx0A/edit?utm_content=DAHEbrzXpxw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 *Referências*
 - *Alammar, Cap. 8*
 - *Huyen, Cap. 6 (p. 253–275)*
 - *Albada, Cap. 4, 6*
 
-*Material de apoio*
-- 🖼️ [Slide](https://www.canva.com/design/DAHEbrzXpxw/B5l7ROI0C8NWAzAyDnHx0A/edit?utm_content=DAHEbrzXpxw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
 #### 2.3 Projeto
 
 - Definição do escopo, design da arquitetura do agente e seleção dos Foundation Models
-
-*Referências*
-- *Huyen, Cap. 1 (p. 28–35), 4 (p. 179-200), 10*
-- *Albada, Cap. 1 (p. 3-13)*
 
 *Material de apoio*
 - 🖼️ [Slide](https://canva.link/b8e65i4qpejixjl)
 - 📄 [Atividade de projeto](/modulos/modulo-2/2.3-projeto/atividade.md)
 - 🔗 [Análise de LLMs](https://artificialanalysis.ai/)
+
+*Referências*
+- *Huyen, Cap. 1 (p. 28–35), 4 (p. 179-200), 10*
+- *Albada, Cap. 1 (p. 3-13)*
 ---
+
 ### Módulo 3 — Ferramentas para Engenharia de Agentes
 
 #### 3.1 LangChain
@@ -246,14 +246,19 @@ Durante o curso, serão utilizadas as seguintes tecnologias e frameworks:
 - 🔗 [LangChain Parte 2](/modulos/modulo-3/3.1-langchain/langchain-parte-2.ipynb)
 
 #### 3.2 LangGraph
-- Grafos de estado (State Schema)
-- Nodes
+- Grafos
+- State
+- Nodes e Edges
+- Schemas
 - Reducers
-- Paralelização
 - Sub-grafos
 
 *Material de apoio*
 
+- 🖼️ [Slide](https://canva.link/cnrhed3hkj5k0e2)
+- 🔗 [LangGraph Tutorial](/modulos/modulo-3/3.2-langgraph/langgraph.ipynb)
+- 🔗 [Studio](https://docs.langchain.com/oss/python/langgraph/studio)
+- 🔗 [Exemplo de Implementação](/modulos/modulo-3/3.2-langgraph/myapp/)
 - 🔗 [Arquitetando em LangGraph](https://docs.langchain.com/oss/python/langgraph/thinking-in-langgraph)
 
 #### 3.3 Model Context Protocol (MCP)
@@ -273,6 +278,7 @@ Durante o curso, serão utilizadas as seguintes tecnologias e frameworks:
 
 *Material de apoio*
 
+- 🔗 [Chat LangChain](https://chat.langchain.com)
 - 🔗 [UI (prototipação) - Streamlit](https://streamlit.io/gallery?category=llms)
 - 🔗 [UI (prototipação) - LangChain Vercel](https://agentchat.vercel.app/)
 - 🔗 [UI (produção) - LangChain GitHub](https://github.com/langchain-ai/agent-chat-ui)
