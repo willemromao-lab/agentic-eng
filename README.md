@@ -266,6 +266,13 @@ Durante o curso, serão utilizadas as seguintes tecnologias e frameworks:
 - Protocolo
 - Primitives (Tools, Resources e Prompts)
 
+*Material de apoio*
+
+- 🖼️ [Slide](https://canva.link/49w2dqit0ruwe5m)
+- 🔗 [Implementações](/modulos/modulo-3/3.3-mcp/)
+- 🔗 [Lista de servidores MCP](https://mcpservers.org/)
+- 🔗 [Configurar VS Code como Host MCP](https://code.visualstudio.com/docs/copilot/customization/mcp-servers)
+
 #### 3.4 Deep Agents
 - Arquitetura
 - Subagentes
