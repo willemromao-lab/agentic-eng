@@ -5,11 +5,11 @@ import os
 from typing_extensions import Annotated, NotRequired, TypedDict
 
 from dotenv import load_dotenv
-from langchain_openai import AzureChatOpenAI
+from langchain_openai import ChatOpenAI
 from langchain_core.messages import AIMessage, AnyMessage
 from langgraph.graph import END, START, StateGraph
 from langgraph.graph.message import add_messages
-
+    
 
 load_dotenv()
 
@@ -22,12 +22,10 @@ class SupportState(TypedDict):
     passos: NotRequired[Annotated[list[str], add]]
 
 
-router_model = AzureChatOpenAI(
-    model=os.environ["AZURE_OPENAI_DEPLOYMENT"],
-    azure_deployment=os.environ["AZURE_OPENAI_DEPLOYMENT"],
-    azure_endpoint=os.environ["AZURE_OPENAI_ENDPOINT"],
-    api_version=os.environ["AZURE_OPENAI_API_VERSION"],
-    api_key=os.environ["AZURE_OPENAI_API_KEY"],
+router_model = ChatOpenAI(
+    model="gpt-5-mini",
+    openai_api_key=os.environ["OPENAI_API_KEY"],
+    openai_api_base=os.environ["BASE_URL"],
     temperature=0,
 )
 
